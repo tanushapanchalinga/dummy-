@@ -36,7 +36,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background("pink");
  
   dustbinObj.display();
   paperObject.display();
